@@ -71,5 +71,10 @@ ul.menu-esquerdo a:hover {
 }
 
 /*
-*** Configuraçao da área de conteudo esquedo
+*** Configuraçao imagem
 */
+
+img.img-conteudo {
+  width: 69%;
+  margin-left: 15%;
+}
